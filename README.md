@@ -13,7 +13,7 @@ The goal was to explore progress in distance, pace, heart rate, and races using 
 
 ## 🧰 Tools
 - Google Sheets (data collection, cleaning, visualization)  
-- Manual logging and training apps
+- Manual logging and training app
 
 ## 🔑 Key insights
 - Consistent training leads to clear performance improvements.  
