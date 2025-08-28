@@ -9,8 +9,7 @@ The goal was to explore progress in distance, pace, heart rate, and races using 
 ## 📊 Data
 - Data collected manually from training sessions and official races.  
 - Organized and visualized using Google Sheets.  
-- [Google Sheets version (view only)](https://docs.google.com/spreadsheets/d/1lvpHkYrvRWn0THE2UZqHQSpgydAOt6xMrz
-eqf3lmz8M/edit?usp=sharing)
+- [Google Sheets version (view only)](https://docs.google.com/spreadsheets/d/1lvpHkYrvRWn0THE2UZqHQSpgydAOt6xMrzeqf3lmz8M/edit?usp=sharing)
 
 ## 🧰 Tools
 - Google Sheets (data collection, cleaning, visualization)  
